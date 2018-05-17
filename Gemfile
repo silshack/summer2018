@@ -1,2 +1,12 @@
 source 'https://rubygems.org'
-gem 'github-pages', '>=104', group: :jekyll_plugins
+
+group :jekyll_plugins do
+  gem 'github-pages', '>=104'
+  gem 'jemoji'
+end
+
+# Test the build
+group :test do
+  gem 'rake'
+  gem 'html-proofer'
+end

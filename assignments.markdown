@@ -96,8 +96,7 @@ be completed by the date and time listed.  Class notes are for your reference of
             {% if post.link %}
                 {% assign link = post.link %}
             {% else %}
-                {% capture link %}
-                    {{ site.baseurl }}{{ post.url }}{% endcapture %}
+                {% capture link %}{{ site.baseurl }}{{ post.url }}{% endcapture %}
             {% endif %}
             <a href="{{ link }}">{% if post.categories contains "notes" %} {{ post.date | date: "%b %d" }} - {% endif %}{{ post.title }} </a>
         </td>

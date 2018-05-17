@@ -49,7 +49,7 @@ and online resources to make a drawing.
 
 # Todos
 
-These will be on the [assignments](/summer2017/assignments.html) page, but I wanted to make sure everything was clear for the first day.
+These will be on the [assignments]({{ site.baseurl }}/assignments.html) page, but I wanted to make sure everything was clear for the first day.
 
 We should have plenty of time in class to do these, but anything you don't finish, complete by midnight tonight:
 
@@ -89,7 +89,7 @@ Now it's time to:
 
 Let's get going!
 
-* [Can I get a volunteer?]({{ site.baseurl }}/how-to/exercise/githubbasics)
+* [Can I get a volunteer?]({{ site.baseurl }}/how-to/exercise/githubbasics.html)
 * Chapter 2 - Variables preview
 
 # Last Words / Next Steps
@@ -99,6 +99,6 @@ Let's get going!
 If you finish early:
 
 * Submit your welcome form
-* [Get started on your first reflection]({{ site.baseurl }}/exercise/first-refelction.html)
+* [Get started on your first reflection]({{ site.baseurl }}/exercise/first-reflection.html)
 * [Get started on your Turtlehack]({{ site.baseurl }}/exercise/turtledrawing.html)
-* [Get started on your Turtlehack post]({{ site.baseurl }}/exercise/how-to/turtlepost)
+* [Get started on your Turtlehack post]({{ site.baseurl }}/exercise/how-to/turtlepost.html)
