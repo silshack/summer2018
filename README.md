@@ -5,6 +5,9 @@ SILShack, Summer 2018
 This is the source code for the collaboratively edited blog/site for the Summer 2018 session of UNC INLS 560, Programming for Information Professionals.
 
 ### To Students in the Class
+
+[![Join the chat at https://gitter.im/silshack/summer2018](https://badges.gitter.im/silshack/summer2018.svg)](https://gitter.im/silshack/summer2018?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 As the course goes on, you'll learn how to use git and Github to help make this site better and add your voice.  To start, check out the [site itself](http://silshack.github.io/summer2017).
 
 ### To Interested Others
