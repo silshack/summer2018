@@ -13,9 +13,9 @@ title: Github basics
 We're going to help Tommy the Tester create his first post.
 
 * Create Github account
-* Go to [http://github.com/silshack/summer2017](http://github.com/silshack/summer2017)
+* Go to [http://github.com/silshack/summer2018](http://github.com/silshack/summer2018)
 * Click 'Create New File'
-* This new file will become your post.  Give it the filename `_posts/<yourname>/2015-01-12-<yourname>-first-post.md` **Remember the importance of careful typing**
+* This new file will become your post.  Give it the filename `_posts/<yourname>/2018-05-17-<yourname>-first-post.md` **Remember the importance of careful typing**
 * Add this to the top of the file's text content:
 
 ```

@@ -37,7 +37,7 @@ Interactive Games:
 <iframe src="https://trinket.io/embed/python/1cc827b4d9?toggleCode=true&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Data Viz:
-<iframe src="https://trinket.io/embed/python/a1b614f1f3?toggleCode=true&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/055c60f8a0?toggleCode=true&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 But programs can also be very simple, and we'll start simple.
 
@@ -70,10 +70,9 @@ Complete these by the beginning of next class:
 * Turtlehack!
 * Submit your first reflective post (on Github) about the experience of the class and exercises so far
 
-
 # Let's Go!
 
-Our first in-class exercise will have you making a cool animation with Python. [Check it out](https://elliott.trinket.io/inls-5-6-0-assignments#/basics/turtle-basics).  I'll stop us periodically to discuss and share your progress.  No need to Submit during class: your progress will be saved and you'll be able to submit after class.  Use all the time you have tonight to explore Python and get creative!
+Our first in-class exercise will have you making a cool animation with Python. I'll stop us periodically to discuss and share your progress.
 
 # Intermission
 
