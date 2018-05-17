@@ -1,22 +1,12 @@
 ---
 layout: post
 author: elliott
-categories: 
+categories:
  - how-to
  - exercise
 inclass: true
 title: Github basics
 ---
-
-# New: Video
-
-This video walks through creating and updating a new post as well as updating a post that's already been merged.  It also goes over some of the basics of branches.
-
-<iframe src="https://player.vimeo.com/video/151900462" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-Hope it helps!
-
-___
 
 # Can I Get A Volunteer?
 
@@ -29,7 +19,7 @@ We're going to help Tommy the Tester create his first post.
 * Add this to the top of the file's text content:
 
 ```
---- 
+---
 layout: post
 author: <yourgithubname>
 title: "Yourname's first post!"
@@ -57,3 +47,11 @@ Behind the scenes it's building a whole new server and running various tests to 
 If your build fails, don't panic!  It happens to the best of us.  Click 'Details' and see if you can figure out what went wrong.
 
 Also, remember that passing tests is a minimum standard.  It doesn't mean that your code is perfect, so make sure to read over your code carefully.
+
+# Video on Creating and Updating Posts
+
+This video walks through creating and updating a new post as well as updating a post that's already been merged.  It also goes over some of the basics of branches.
+
+<iframe src="https://player.vimeo.com/video/151900462" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Hope it helps!

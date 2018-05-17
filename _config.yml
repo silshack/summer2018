@@ -1,4 +1,6 @@
-name: SILShack Summer 2017
+name: SILShack Summer 2018
+
+title: SILShack
 
 highlighter: rouge
 markdown: kramdown
@@ -63,7 +65,14 @@ authors:
     name: Tommy Tester
     prof: false
     gravatar:
-    website:
+    website: "#"
     github: tommytester
     twitter:
     about: "Testin' INLS 560 since 2014"
+
+
+
+
+
+
+
