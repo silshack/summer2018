@@ -8,7 +8,7 @@ inclass: true
 title: Embed Turtle Programs into our Class Blog
 ---
 
-Use the instructions below to submit a post with your Turtlehack embedded into it.
+Use the instructions below to submit a post with your trinket embedded into it.
 
 ### Sharing your work
 

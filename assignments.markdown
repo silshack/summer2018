@@ -44,6 +44,7 @@ be completed by the date and time listed.  Class notes are for your reference of
     {% assign class_dates = class_dates | unshift: note.date %}
 {% endfor %}
 {% for date in class_dates %}
+    {% assign inclass = "" | split: "" %}
     {% for reading in readings %}
       {% if reading.date  == date %}
           {% assign assignments = assignments | push: reading %}
@@ -61,10 +62,13 @@ be completed by the date and time listed.  Class notes are for your reference of
     {% endfor %}
     {% for ice in inclassexercises %}
       {% if ice.date == date %}
-      {% assign assignments = assignments | push: ice %}
+      {% assign inclass = inclass | push: ice %}
       {% endif %}
     {% endfor %}
-
+    {% assign inclass = inclass | sort: 'title' %}
+    {% for ice in inclass %}
+      {% assign assignments = assignments | push: ice %}
+    {% endfor %}
 {% endfor%}
 
 {% assign all_assignments = assignments  %}
