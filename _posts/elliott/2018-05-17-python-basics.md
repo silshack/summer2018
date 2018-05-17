@@ -37,7 +37,7 @@ Interactive Games:
 <iframe src="https://trinket.io/embed/python/1cc827b4d9?toggleCode=true&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Data Viz:
-<iframe src="https://trinket.io/embed/python/a1b614f1f3?toggleCode=true&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/055c60f8a0?toggleCode=true&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 But programs can also be very simple, and we'll start simple.
 
@@ -69,7 +69,6 @@ Complete these by the beginning of next class:
 * Make some basic Python Programs with Chapter 2 extercises
 * Turtlehack!
 * Submit your first reflective post (on Github) about the experience of the class and exercises so far
-
 
 # Let's Go!
 
