@@ -72,7 +72,7 @@ Complete these by the beginning of next class:
 
 # Let's Go!
 
-Our first in-class exercise will have you making a cool animation with Python. [Check it out](https://elliott.trinket.io/inls-5-6-0-assignments#/basics/turtle-basics).  I'll stop us periodically to discuss and share your progress.  No need to Submit during class: your progress will be saved and you'll be able to submit after class.  Use all the time you have tonight to explore Python and get creative!
+Our first in-class exercise will have you making a cool animation with Python. I'll stop us periodically to discuss and share your progress.
 
 # Intermission
 
