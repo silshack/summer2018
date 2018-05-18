@@ -3,6 +3,7 @@ author: elliott
 layout: post
 title: Turtlehacks!
 categories: exercise
+published: false
 ---
 
 Make the coolest Turtle program you can and **during class** we'll [post it to our blog]({{ site.baseurl }}/exercise/how-to/turtlepost.html).
