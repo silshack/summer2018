@@ -1,8 +1,10 @@
 layout: post
-author: WildGinger23
-title: "Bennett's first reflection!"
 
-## __**First Reflection**__
+author: WildGinger23
+
+title: "Bennett's First Reflection!"
+
+## __**Bennett's First Reflection**__
 
 I think that learning python is a lot like learning a foreign language. Like all learning, it involves departing from your comfort zone. More importantly though I think that the principle of "Use it or lose it" applies.
 
