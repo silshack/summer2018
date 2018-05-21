@@ -1,7 +1,7 @@
 ---
 layout:post
 author: TCarmon
-title: Tia's First Reflection Post
+title: "Tia's First Reflection Post"
 ---
 
 **Tia’s First Reflection Post**
@@ -32,11 +32,11 @@ For each of the excercises, I am copying over my reflections that I submitted wi
 
 **3rd Exercise static code block is below-**
 
-'''
+```
 tempC = input ('Enter temperature in degrees Celsius:')
 convertedtemp = (float (tempC)*2)+30 #convert to Fahrenheit
 print (convertedtemp)
-'''
+```
 
 I likely have gotten this one wrong due to my forgetting exactly what the equation is to convert Celsius to Fahrenheit. As far as the other programming, I guess struggling through the first two exercises helped me to have a good plan for how to tackle this one. The actual programming did not take long. Took me a while to figure out what the conversion could be. According to my Google sanity check, my conversion is off. Not sure if it is legal to change the conversion based on what I found via my Google search, so I will leave it as is.
 
