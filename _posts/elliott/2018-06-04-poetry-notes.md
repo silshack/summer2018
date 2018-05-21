@@ -20,7 +20,7 @@ published: false
 * The Driver doesn't know where to go without the navigator.
 * Tell your partner what you need from them.  Ask them for it!
 
-# Looking Ahead: Drawing App / Blackjack Game Due June 7
+# Looking Ahead: Drawing App / Blackjack Game Due June 11
 
 We'll also have some code talks, clinic, and peer review.  Assignment is posted; get started now!
 
@@ -32,10 +32,10 @@ Reminder: your public activities in this class can be pseudonymous if you want t
 
 It's [here]({{ site.baseurl }}/exercise/make-a-name-for-yourself.html)
 
-# Merge up: Clicky Turtles
+# Merge up: Poetry Slam
 
 You know the drill.
 
-# Poetry Slam Due Tomorrow
+# Poetry Slam Discussion
 
-If there's time, we'll start in class.  If you've started your Poetry Slam, let me know.  [Let's do this]({{ site.baseurl }}/exercise/poetry-slam.html)
+[Let's do this]({{ site.baseurl }}/exercise/poetry-slam.html)

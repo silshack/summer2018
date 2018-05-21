@@ -3,7 +3,6 @@ layout: post
 category: notes
 title: "Logic and the flow of Control"
 author: elliott
-published: false
 ---
 
 # Q&A

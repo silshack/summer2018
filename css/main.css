@@ -138,6 +138,19 @@ code, pre {
 
 table {
   width: 100%;
+  border-collapse: collapse;
+}
+
+table tbody tr.odd {
+  background: #f9f9f9;
+}
+
+table tbody tr.even {
+  background: white;
+}
+
+table tbody tr.hidden {
+  display: none;
 }
 
 tr:hover td {
@@ -235,5 +248,5 @@ footer {
   -webkit-animation-duration:0.2s;
   -moz-animation-duration:0.2s;
   animation-duration:0.2s;
-  
+
 }
