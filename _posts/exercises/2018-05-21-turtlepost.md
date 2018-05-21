@@ -89,10 +89,10 @@ That code looks like this:
 
 ### Thoughts about the exercise
 
-When submitting exercises, it's always awesomer to include reflections, roadblocks you ran into, or
+When submitting exercises, always include reflections, roadblocks you ran into, or
 things you thought were cool. Always include links to example code if you use or are heavily influnced
-by someone else's work. They don't have to be long, but the best ones give me a sense of what you did
-and why.  Here's a post from last class that does a good job of this: [Sarah's post from Fall 2013](http://silshack.github.io/fall2013/post/2013/09/09/Sophie.html)
+by someone else's work. They should be at least a paragraph or two. Regardless of length, the best ones give me a sense of what you did
+and why.  Here's [a post from a previous class](https://silshack.github.io/summer2017/zman7895-logic-turtle-exercise.html) that does a good job of this.
 
 ### Going deeper
 

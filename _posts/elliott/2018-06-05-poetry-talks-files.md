@@ -2,7 +2,7 @@
 author: elliott
 category: notes
 layout: post
-title: "Poetry Code Talks; Let's learn files"
+title: "Poetry Code Talks; Let's learn files & dictionaries"
 published: false
 ---
 
@@ -16,20 +16,6 @@ Some App stuff:
 # App clinic June 6th, 5-6:30pm
 
 Stay after class for help with your Blackjack or Drawing apps.
-
-# First Steps
-
-Would anyone volunteer to show what they have so for for their Drawing or Blackjack app?  The earlier stage, the better.  My goal is to help people get an idea of how to get started.
-
-# Looking ahead: Games!
-
-Your second project is due before spring break: make a Game app using Turtle.
-Thursday you'll have miletones, we'll do an in-class peer clinic, but there will
-be no snapshot or peer review this time.  Everything should be pretty familiar!
-
-Think of this as more of a 'game sketch' like I describe in the video than a full
-featured game.  If you choose to make a game for your final you can do all the bells
-and whistles.
 
 # Python 3
 
@@ -51,13 +37,7 @@ Basic architecture:
 * Read user input to build a **list** of lines of poetry
 * Use that list + a `for` loop to write user's input to screen, moving turtle for each line.
 
-A solid example:
-
-<iframe src="https://trinket.io/embed/python/eda6fcdf0c" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Creative formatting!
-
-<iframe src="https://trinket.io/embed/python/bdc5ac1ca9" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+ -- Examples here --
 
 Pairup & Merge up.
 
@@ -105,3 +85,20 @@ This one has five rows and three columns.
 To work with lists of lists you'll nee lots of **slicing** and **indexing**.  Remember the `list[x:y:z]` syntax.
 
 Let's get to work!  I recommend you read over questions 1-3 briefly and then go straight to exercise 4.  Let me orient you briefly.
+
+# Dictionaries
+
+Dictionaries are like simple mini databases.  They're great at keeping track of statistics.
+
+Today we'll use **dictionaries of dictionaries** that will let you store and retrieve multiple stats about a state. This
+is a core data analysis skill.
+
+
+# Dictionary exercises today
+
+We'll spend the whole class working **together** on your homework.  I'm here. Use me.
+It's due 11:59pm tonight.  Finish in class or make plans to coordinate.
+
+# Dictionary Exercises next time
+
+More of the same!

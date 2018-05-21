@@ -3,7 +3,7 @@ layout: default
 title: "Syllabus"
 ---
 
-## Draft Syllabus
+## Syllabus
 
 Subject to update during the first week of class.
 
@@ -74,11 +74,11 @@ I take the happiness and wellbeing of all students very seriously and share the 
 
 ## Assignments
 
-**Cultural Immersion Activities:** Like other cultural products, digital technologies require an immersive experience for effective learning.  After a vocabulary of about 300-400 words is developed, students can begin teaching themselves languages, and a roughly similar threshold applies to programming concepts and technologies.  Students in INLS 560 will immerse themselves in the culture surrounding programming in three ways:
+**Cultural Immersion Activities:** Like other cultural products, digital technologies require an immersive experience for effective learning.  After a vocabulary of about 300-400 words is developed, students can begin teaching themselves languages, and a roughly similar threshold applies to programming concepts and technologies.  Students in INLS 560 will immerse themselves in the culture surrounding programming in these ways:
 
 * Attending **one in-person programming meetup** over the course of the semester. This must be with an off-campus group such as [TriPython](http://trizpug.org/), our local Python user group.
 
-* Contributing to **one open source project** in the form of a Github issue or pull request.  This should be an active, independent (i.e. not related to this class).  See me if you're not sure your project would qualify.
+* Extra Credit:  Contributing to **one open source project** in the form of a Github issue or pull request.  This should be an active, independent (i.e. not related to this class).  See me if you're not sure your project would qualify.
 
 These experiences will combine with class assignments, readings, and in-class exercises to deepen students’ interest and facility with the concepts and skills we’ll learn.  Students who are unable to attend the in-person meetups may propose a comparable virtual community interaction in its place.
 
@@ -112,6 +112,7 @@ These experiences will combine with class assignments, readings, and in-class ex
 * Related, Dr. Chuck has [a YouTube playlist](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ) with lectures and walkthroughs of much of the course content.
 * [Automate the Boring Stuff](http://automatetheboringstuff.com) by Al Sweigart. Al's book was a close contender for the text of this course.  Free online, and you can buy the book.  Highly recommended if you intend on developing Python proficiency after the course.
 * [Google's Python Class](https://elliott.trinket.io/google-s-python-class) by Nick Parlante. This is an intensive 2 day course for programmers with experience in a language other than Python.  its quick pace means that it's best as a refresher or extender after we've covered something.  The link is to a version that I made interactive with Trinket, so it should be quick and easy to pop in and do a section.
+* Python's [official documentation](https://docs.python.org).  You can use this during activities that restrict you to class materials by using a [special google search](https://www.google.com/search?num=30&source=hp&ei=cAwCW-bvFO_t5gLV8ofwBA&q=site%3Adocs.python.org&oq=site%3Adocs.python.org&gs_l=psy-ab.3...1402.5942.0.6109.21.20.0.0.0.0.117.1500.18j2.20.0....0...1c.1.64.psy-ab..1.5.473.0..0j35i39k1j0i131k1j0i131i20i264k1j0i20i264k1.0.zNyPcAqR9uw) restricted to just this domain.
 
 I'll occasionally pull readings from these sources or refer you to them.
 

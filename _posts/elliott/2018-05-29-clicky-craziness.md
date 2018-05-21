@@ -3,7 +3,6 @@ layout: post
 author: elliott
 category: notes
 title: "Treasure Turtles and Clicky Craziness"
-published: false
 ---
 
 # Recommended Reading
@@ -48,4 +47,4 @@ Why cram all these together?  Well, they're related.  Loops are loops **over** a
 
 Strings are just lists of characters, with additional methods (like `.format()` and `.contains()`) built in for our convenience.
 
-So, it's a lot of material, but doing it over a long weekend should help it all sink in.
+So, it's a lot of material, but doing it together should help it all sink in.
