@@ -79,8 +79,20 @@ be completed by the date and time listed.  Class notes are for your reference of
     <th>Title</th>
     <th>Due Date</th>
 
+{% assign even = false %}
+{% assign prevdate = nil %}
+
 {% for post in all_assignments  %}
-    <tr   aria-label='{{ post.title | escape }}'>
+{% if prevdate != post.date %}
+    {% assign prevdate = post.date %}
+    {% assign newdate = true %}
+    {% if even %}
+        {% assign even = false %}
+    {% else %}
+        {% assign even = true %}
+    {% endif %}
+{% endif %}
+    <tr aria-label='{{ post.title | escape }}' class="{% if even %}even{% else %}odd{% endif %} {{ post.date | date: '%b%d' }} {% if newdate %}newdate{% endif %} {% if post.categories contains 'notes' %}notes{% endif %}">
         <td>
             {% if post.categories contains "exercise" %}
             <span class="label round {% if post.inclass == true %}warning">In-class {% else %}success">{% endif %}Exercise</span>
@@ -98,7 +110,7 @@ be completed by the date and time listed.  Class notes are for your reference of
             {% else %}
                 {% capture link %}{{ site.baseurl }}{{ post.url }}{% endcapture %}
             {% endif %}
-            <a href="{{ link }}">{% if post.categories contains "notes" %} {{ post.date | date: "%b %d" }} - {% endif %}{{ post.title }} </a>
+            <a href="{{ link }}">{% if post.categories contains "notes" %} <b>{{ post.date | date: "%b %d" }} - {% endif %}{{ post.title }} {% if post.categories contains "notes" %} </b>{% endif %}</a>
         </td>
         <td>
             {% if post.categories contains "notes"%}
@@ -107,6 +119,22 @@ be completed by the date and time listed.  Class notes are for your reference of
             {% endif %}
         </td>
     </tr>
-
+{% assign newdate = false %}
 {% endfor %}
+
 </table>
+
+<!-- WIP
+<script>
+$('.notes').click(function() {
+    var $this = $(this);
+    var prevdate = $(this).prevUntil('.newdate').prev();
+    console.log(prevdate);
+    prevdate.nextUntil('.newdate').slideToggle(100).promise().done(function () {
+        $this.find('span').text(function (_, value) {
+            return value == '-' ? '+' : '-'
+        });
+    });
+    $(this).slideToggle();
+});
+</script>-->
