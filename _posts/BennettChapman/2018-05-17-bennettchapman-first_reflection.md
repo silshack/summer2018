@@ -1,8 +1,8 @@
+---
 layout: post
-
 author: WildGinger23
-
 title: "Bennett's First Reflection!"
+---
 
 ## __**Bennett's First Reflection**__
 
