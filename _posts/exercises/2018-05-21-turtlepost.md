@@ -22,7 +22,7 @@ First you need a header:
 ---
 layout: post
 author: tommytester
-title: Tommy's Turtle Exercise
+title: "Tommy's Turtle Exercise"
 ---
 </pre>
 
