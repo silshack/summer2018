@@ -12,24 +12,12 @@ category: notes
 
 # Turtlehacks
 
-I'm halfway done but have a few examples to brag on.  They all just happen to be aliterative.
-
-Kathryn's Castle
-
-<iframe src="https://trinket.io/embed/python/50aec82a6c" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Bennett's Bomber
-
-<iframe src="https://trinket.io/embed/python/25ffca8e3f" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Brian's BBall
-
-<iframe src="https://trinket.io/embed/python/e9176b0be5" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Let's share!
 
 # Looking ahead
 
 * My Treasure hunt game, demonstrating click events and with an instructions animation:
-<iframe src="https://trinket.io/embed/python/5c8c1ce975" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/5c8c1ce975?start=result&outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Clicky Turtles are on their way!
 
