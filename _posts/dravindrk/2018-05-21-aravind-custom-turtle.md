@@ -1,6 +1,6 @@
 ---
-layout: posyt
-author:draravindrk
+layout: post
+author: draravindrk
 title: "Aravind's Custom Turtle"
 ---
 Here's My First Custom Turtles
