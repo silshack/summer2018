@@ -10,44 +10,6 @@ author: elliott
 * Community engagement - Get started now!
 * Open Source contributions - now Extra Credit
 
-# TurtleHacks
-
-<!--
-Nice use of Goto:
-<iframe src="https://trinket.io/embed/python/0304bd2b21" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Hello world! Doing this the hard way is a great way to learn:
-<iframe src="https://trinket.io/embed/python/deb914d084" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Simple but effective:
-<iframe src="https://trinket.io/embed/python/8764885c49" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Very well commented:
-<iframe src="https://trinket.io/embed/python/25e3de32dc" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Checkers!
-<iframe src="https://trinket.io/embed/python/582996e6a8" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Sup, robot?
-<iframe src="https://trinket.io/embed/python/0b6bd5bf80" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Great design:
-<iframe src="https://trinket.io/embed/python/99ab53d1b7" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Very creative:
-<iframe src="https://trinket.io/embed/python/609aa3b6cd" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Using some Functions, which we'll learn about soon:
-<iframe src="https://trinket.io/embed/python/17cdca3460" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Baking a custom cake:
-<iframe src="https://trinket.io/embed/python/27186f1f20" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-Preview of how our lives will get better: Using some loops!
-<iframe src="https://trinket.io/embed/python/9475228430" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
--->
-A place to celebrate your hacking...
-
 # Logistics
 
 Moving forward, you'll review and merge each others' work in class.
@@ -55,25 +17,27 @@ Moving forward, you'll review and merge each others' work in class.
 Review, fix, and close issues assigned to you. We'll have some catch-up time where
 we can review any outstanding issues.
 
-Gittr chat.
-
 # Merging!
 
 With great power comes great responsibility
 
 * Never merge your own pull request
-* Never commit directly to the `gh-pages` branch
+* Never commit directly to the `master` branch
 ![Imgur](http://i.imgur.com/sEFqgU7.png)
 * Never merge broken or failing code
+* Always be explicit with your reviews:
+
+![screenshot 2018-05-22 at 5 24 53 pm](https://user-images.githubusercontent.com/1702745/40391297-c084aa2e-5de5-11e8-9eee-54c79744b2b8.png)
+
 
 # Review & Merge Posts
 
 Volunteer: Merging with Tommy Tester.
 
 * Reviewing PRs - comment on them directly
-* Merging - Your responsibility to make sure your partner's post works! Check that it shows up on our site
+* Create a formal Review to **Approve** or **Request Changes**.  Leave comments on a specific line if needed.  Request changes on an open PR.  Open an issue if the code has already been merged - that way, issues are with the current site, and problems with new code say in the PR.
+* Merging - Your responsibility to make sure your partner's post works! Check that it shows up on our site afterwards.  Code > Commits will let you see whether the site has been rebuilt (takes ~1 minute)
 * Assigning issues - already merged work with problems
-
 
 ~10 minutes reviewing & merging posts with a partner.
 
@@ -86,16 +50,17 @@ to change the behavior of our program.
 Basic `if` statements act as 'gates' to control whether blocks of code get executed.
 `elif` and `else` statements enhance this control.
 
-# Logical Turtles code talks
+# In Class exercise
 
-3-4 student volunteers
+Logical Turtles!
+
+# Logical Turtles code talks
 
 * Story of your approach
 * Your triumphs
 * Your despairs
 * Problem Solving attitudes and strategies
 
-
 # Functions & Refactoring for Next time
 
-Read up on functions and then use the power of custom functions to make your previous code more concise!
+Read up on functions and then use the power of custom functions to make your previous code more concise and more awesome!
