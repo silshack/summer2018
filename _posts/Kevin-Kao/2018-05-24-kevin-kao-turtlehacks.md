@@ -1,10 +1,10 @@
 ---
 layout: post
 author: kevin-kao
-title: "Kevin's turtlehacks & logical turtle!"
+title: "Kevin's turtlehacks!"
 ---
 
-My another practice which is "Turtlehacks" is here:
+My "Turtlehacks" practice is here:
 <iframe src="https://trinket.io/embed/python/d05f49e4ed" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 My idea of making this "Turtlehacks" came from using the random number. I wanted to make the turtle move according to what
