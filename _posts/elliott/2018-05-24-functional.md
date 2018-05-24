@@ -14,6 +14,10 @@ category: notes
 
 * Your Logical turtle shuld be in the same pull request as your Turtlehack, but in a different post (dated Tuesday).  If any of this doesn't apply to you, fix it now.
 
+# Introductions
+
+Finally!  Let's get to know each other a little.
+
 # Turtlehacks
 
 [Pair up]({{ site.baseurl}}/pairup.html) and merge up!
