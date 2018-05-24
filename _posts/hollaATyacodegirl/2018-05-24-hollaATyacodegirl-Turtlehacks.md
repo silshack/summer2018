@@ -1,6 +1,6 @@
 ---
 layout: post
-author: hollaAtyacodegirl
+author: hollaATyacodegirl
 title: "Turtlehacks: Draw the Rainbow using Turtle"
 ---
 
