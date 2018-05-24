@@ -4,7 +4,8 @@ author: hollaAtyacodegirl
 title: "Turtlehacks: Draw the Rainbow using Turtle"
 ---
 
-[Turtlehacks: Draw the Rainbow using Turtle](https://trinket.io/python/cd880ad1fb)
+Turtlehacks: Draw The Rainbow using Turtle
+<iframe src="https://trinket.io/embed/python/cd880ad1fb?start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 This course has taught me something I had long suspected about how I learn. I've realized that I am a lot more comfortable when I am given a problem to 
 solve using code, as in the Chapter exercises, and I am uncomfortable when given creative license to do 'anything,' as in the project 
