@@ -1,7 +1,7 @@
 ---
 layout: post
 author: ponderm
-title: "Logical Turtle Exercise:
+title: "Logical Turtle Exercise"
 ---
 # Logical Turtle Exercise
 
