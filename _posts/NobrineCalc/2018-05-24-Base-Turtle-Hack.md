@@ -1,7 +1,7 @@
 ---
 layout: post
 author: NobrineCalc
-title: Turtle Hack and Logical Turtle
+title: Turtle Hack 
 ---
 I made my turtle hack very similiar to my logical turtle. A difference I implemented was the drawing of circles along with the triangles. I see this addition as a start on linking multiple functions together and building a program that draws a more intricately designed shape.
 
