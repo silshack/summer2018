@@ -1,6 +1,6 @@
 ---
 layout: post
-author: scylmartin
+author: scylarmartin
 title: "scylarmartin's functional turtle"
 ---
 There are a couple of problems in my code. I solved most of them, but there is one remaining there. Through this practice, I understand 
