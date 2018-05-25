@@ -59,7 +59,7 @@ def colorful_shape():
   tina.right(random.randrange(30,360,30))
   tina.penup()
   tina.forward(random.randrange(50,150,25))
-To draw different types and sizes of polygon I wrote the following: `polygon(random.randrange(25,200,25),random.randint(3,8))'. I randomized
+To draw different types and sizes of polygon I wrote the following: `polygon(random.randrange(25,200,25),random.randint(3,8))`. I randomized
 the length of each side as a value between 25 and 200 (half the width of the Trinket screen) with steps of 25. I randomized how many sides
 the polygon was going to have by using the `random.randint()` function giving a range from 3 to 8 (I could do more sides but the shapes got
 really big!). 
