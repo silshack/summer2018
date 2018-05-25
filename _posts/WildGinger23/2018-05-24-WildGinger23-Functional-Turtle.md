@@ -1,7 +1,7 @@
 ---
 layout: post
 author: WildGinger23
-title:"Functional Turtle"
+title: "Functional Turtle"
 ---
 
 This is my Functional Turtle. I sought to refactor some aspects of my Turtlehack.
