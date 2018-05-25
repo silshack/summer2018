@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 author: TCarmon
 title: "Tia's Functional Turtle"
 ---
