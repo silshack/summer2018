@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Wildginger23
+author: WildGinger23
 title: " Bennett's first post!"
 ---
 
