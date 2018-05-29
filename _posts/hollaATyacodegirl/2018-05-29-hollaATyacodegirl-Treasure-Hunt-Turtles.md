@@ -1,7 +1,7 @@
 ---
 layout: post
 author: hollaATyacodegirl
-title: hollaATyacodegirl's Treasure Hunt Turtle exercise
+title: 'hollaATyacodegirl's Treasure Hunt Turtle exercise'
 ---
 
 Below is my code for the Treasure Hunt Turtle exercise.
