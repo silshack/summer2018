@@ -48,4 +48,4 @@ One thing I learned during this assignment was that I could not have both the on
 ```
 Since we had a long weekend, I took a stab at adding a mine and it seems to be working!
 
-Tia :smiley:
+Tia   :smiley:
