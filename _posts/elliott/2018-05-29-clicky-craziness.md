@@ -50,7 +50,7 @@ Lots of work over the break!  Pace yourself.  Start early.  We've got to keep go
 
 * Chapter 5 reading & exercises.  We'll *finally* go over loops!  Woot.
 * Chapter 6 reading & exercises.  **Strings** aka text.  Super fun.
-* Chapter 8 reading & exercises.  Loops
+* Chapter 8 reading & exercises.  Lists.  Super useful!
 * Recommended: Automate the Boring Stuff Lists and loops.
 
 Why cram all these together?  Well, they're related.  Loops are loops **over** a list.  The familiar `range(4)` produces a list.  `for i in range(4)` produces the list `[0,1,2,3]`, assign each of them to `i` and completes the code in the for block.
