@@ -2,20 +2,14 @@
 author: elliott
 category: notes
 layout: post
-title: "Poetry Code Talks; Let's learn files & dictionaries"
-published: false
+title: "Let's learn files & review dictionaries"
 ---
 
 # Q&A
 
-
 Some App stuff:
 
 - Attributes for specific turtles to make buttons
-
-# App clinic June 6th, 5-6:30pm
-
-Stay after class for help with your Blackjack or Drawing apps.
 
 # Python 3
 
@@ -27,19 +21,6 @@ We'll be using Python 3 in Trinket for all text-based work.  Remember your `prin
 
 You can make anonymous Python 3 trinkets on Trinket for free.  If you want the convenience of saving your
 Python 3 trinkets to your account, you should use code `inls560` to get our premium plan at a huge discount of $4.50 a month.
-
-# (Quick) Poetry Review
-
-You'll be adding file handling to your Slam poetry this week.  If your program needs updates, or you'd like to improve on it, **duplicate** it.  You may also post the updated version as a clearly updated update to your original post.
-
-Basic architecture:
-
-* Read user input to build a **list** of lines of poetry
-* Use that list + a `for` loop to write user's input to screen, moving turtle for each line.
-
- -- Examples here --
-
-Pairup & Merge up.
 
 # Files
 
@@ -99,6 +80,17 @@ is a core data analysis skill.
 We'll spend the whole class working **together** on your homework.  I'm here. Use me.
 It's due 11:59pm tonight.  Finish in class or make plans to coordinate.
 
-# Dictionary Exercises next time
+# Next time
 
-More of the same!
+**Dictionary Exercises**
+
+More of the same!  Except now you're more skilled.
+
+**Take home, ungraded Mid-term**
+
+This is exactly the same as the other section of INLS 560.  Completing it will get you full credit, and knowing
+your numerical grade should give you a sense of whether you've gotten some of the basics.
+
+This is something that you should treat like a real test.  Review **Syntax**, **flow of control**,
+and **loops** in particular.  Trinket does a lot for you in terms of autocomplete and error detection but this will
+be a paper test with no feedback so make sure you're not too reliant on those crutches.  Try it closed notes and closed book first, then if you need to, look at some class resources and go back with a different color pen to correct your work.

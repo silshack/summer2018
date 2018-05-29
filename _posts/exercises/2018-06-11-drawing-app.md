@@ -58,10 +58,10 @@ Additionally, your code should:
 
 # No Outside Help
 
-On this assignment, primarily use our text and my video as a reference.  **Do not** seek
+On this assignment, primarily use our text, my video, and other class materials as references.  **Do not** seek
 direct help from another person.  Googling for small syntax information, etc. is fine but
 **do not** copy and paste any code from the internet.  All code used in this exercise should
-be your own or heavily adapted.
+be your own or heavily adapted from class materials or your prior work.
 
 Please review the university's honor code and my stance on honor as stated in the syllabus.
 See me with any questions.

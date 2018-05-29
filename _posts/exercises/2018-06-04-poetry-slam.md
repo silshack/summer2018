@@ -3,6 +3,7 @@ layout: post
 author: elliott
 category: exercise
 title: Poetry slam Tina
+published: false
 ---
 
 **Despite the (automatically generated) Due Date, I'll accept this excecise until Midnight on June 1, 2017 since we don't have class today**

@@ -3,6 +3,7 @@ layout: post
 author: elliott
 category: exercise
 title: "Poetry Slam Files"
+published: false
 ---
 
 **Make a Copy of your Poerty Slam Trinket for this exercise.**

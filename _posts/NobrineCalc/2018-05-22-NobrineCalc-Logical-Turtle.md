@@ -1,7 +1,7 @@
 ---
 layout: post
 author: NobrineCalc
-title: A Logical Turtle Exercise
+title: "NobrineCalc's Logical Turtle"
 ---
 
 Logic Turtle

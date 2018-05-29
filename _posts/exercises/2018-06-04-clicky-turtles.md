@@ -6,13 +6,7 @@ categories:
 title: Clicky Turtles Exercise
 ---
 
-Submit a well-formatted pull request to our class blog with embedded Trinket programs for the below exercises.
-Complete these on your own, using any materials you need. Do not
-look at other students' submissions until after you've completed your work.
-
-**After your programs are done**, check other students' work and other resources online if you had questions.
-Include a reflection about what you think you've learned and any concepts that are still fuzzy to you.
-Did you encounter frustrating situations? Did you feel a lightbulb turn on?
+{% include prblurb %}
 
 ___
 
@@ -23,7 +17,8 @@ Solving Attitudes and Strategies!
 Write a turtle program that:
 
 * Has a `setup()` function that sets up your screen visually. For instance, you could
-draw green grass and blue sky using the `.fill()` method. I've created a second
+draw green grass and blue sky using the `.fill()` method.
+* Has two forms of user interface: clicks and keypresses.  Remember, Turtles can listen for click events, and Screens can listen for click and key events.
 
 Option 1: Clicks
 
@@ -44,8 +39,9 @@ Option 2: Keys
 * Does one of the following:
   * Allows the user to make something creative interactively
   * Has a 'win' condition.  Make sure to give instructions!
-  * Implements a narrative animation.  `import time`, `time.sleep(x)` and `tina.clear()`
-will be useful if you pick this one.
+  * Implements a narrative animation.  `import time`, `time.sleep(x)` and `tina.clear()` will probably be helpful.  You'll also need to remember your interface elements!
+
+# Advanced
 
 If you'd like to stretch yourself, try these:
 
@@ -57,14 +53,12 @@ in your clicky function.
 often the screen updates and fix the zigzag artifacts.
 * Add your own new module (i.e. `mymodule.py`) and `import` something from it.
 You could even put your clicky function there to keep your code clean and readable.
+* Read ahead on **dictionaries** and use some of these in your code.
 
-## Option 1 Starter
+## Starter Code
 
 Use this Clicky starter code unless you feel like coding from scratch:
 
 <iframe src="https://trinket.io/embed/python/fbf0c594fd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-
-## Option 2 Starter
-
-<iframe src="https://trinket.io/embed/python/a49153e12a" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Small changes to the functions in this code can yield big results!  And by understanding the patterns within it, you can create an entirely unique program.  Good luck!
