@@ -213,6 +213,7 @@ GEM
     parallel (1.6.1)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
+    power_assert (0.2.2)
     public_suffix (2.0.5)
     rake (10.4.2)
     rb-fsevent (0.10.3)
@@ -233,6 +234,8 @@ GEM
       faraday (~> 0.8, < 1.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
+    test-unit (3.0.8)
+      power_assert
     thread_safe (0.3.6)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
@@ -249,6 +252,7 @@ DEPENDENCIES
   html-proofer
   jemoji
   rake
+  test-unit
 
 BUNDLED WITH
    1.16.2

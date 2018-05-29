@@ -2,15 +2,26 @@
 author: elliott
 layout: post
 category: notes
-title: "Lists & Strings"
-published: false
+title: "Lists, Loops & Strings"
 ---
 
 # Q&A
 
 * What's `.md` stand for?  [Markdown](https://guides.github.com/features/mastering-markdown/) (as opposed to markup- get it?).  Here's another [cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
 * List indices
-* Filename bug in trinket.  At least 2 ways around.
+* `Ctrl-/` is your friend
+* While True, continue and break
+
+<iframe src="https://trinket.io/embed/python/44b5d714de" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+* what `try`/`except` does to your program
+
+<iframe src="https://trinket.io/embed/python/4b205b50d7" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+* sum & python keywords: don't pick special words for your variables!
+* program flow & breaking
+* Reminder on help
+* `None < 1`, truthiness, and other wierdness
 
 # Escape Velocity
 
@@ -19,32 +30,23 @@ ready for a wide range of new technologies.  Let's recalibrate what success mean
 
 # Today
 
+Review the *boatload* of homework you did.  Now.
+
 We're doing more chapter 8 exercises, but more importantly we're learning
 a technique called **pair programming**.  This is both a real technique used
 by professional programmers and a learning strategy that's been shown to
 improve outcomes.  Double win!
 
-[Let's go!]({{ site.baseurl }}/exercise/ch8-more.html)
+First, a [warmup]({{ site.baseurl }}/exercise/gerund-challenge.html)
 
-# Q & A
+Next, more exercises.  Complete these in a pair programming style, then have both partners submit the same code. [Let's go!]({{ site.baseurl }}/exercise/ch8-more.html)
 
-* `Ctrl-/` is your friend
-* If you use something from StackExchange, it's your responsibility to know how it works.
-* While True, continue and break
+# Next Time
 
-<iframe src="https://trinket.io/embed/python/44b5d714de" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+**Clickyhack turtle.**
 
-* what `try`/`except` does to your program
+Again, another open-ended exercise for your to make something unique.  You've got **Lots** more tools now, but you may not know how to put them to use.  Combine your ideas with the things we've learned to make a program that uses all of the language features we've covered so far, starting from a helpful template I made for you.
 
-<iframe src="https://trinket.io/embed/python/4b205b50d7" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+**Reflection on the Class So Far**
 
-* sum & python keywords
-* calculating agerage at the end
-* int vs float
-* program flow & breaking
-* Reminder on help
-* `None < 1`, truthiness, and other wierdness
-
-# Clicky Turtle Review
-
-Pair up, merge, and discuss!
+Far and away, the students who reflect the best, perform the best.  This is your opportunity to either continue your reflection excellence or bring it up to speed.  Use terms from class like problem solving strategies, attitudes, challenges, and lightbulbs to describe your journey so far.  Help me (and yourself!) understand your path.

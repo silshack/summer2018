@@ -3,7 +3,6 @@ author: elliott
 category: notes
 title: "Project Ideas +  Classes"
 layout: post
-published: false
 ---
 
 # Q&A
@@ -35,20 +34,11 @@ There's also an example game with levels (but that may not apply to anyone excep
 
 ## Turtle Groups & Pairs
 
-Group 1
-lisetted : samsr31 : nurahill
-kmorbitzer : grassycheetah94
-Group 2
-chall12 : chausuble
-brianpugsley : Ibbi2010
+TBD
 
 # Data Groups & Pairs
-Group 1
-anusha-suresh : zman7895 : jpanken
-abaker8 : alexreher
-Group 2
-jbfelder : businessowl
-neatoskeeto : nvola
+
+TBD
 
 # Group Work today:
 

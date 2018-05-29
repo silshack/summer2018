@@ -1,9 +1,8 @@
 ---
 author: elliott
 category: notes
-title: "Python on the Web; Review; Final Project"
+title: "Review; Final Project"
 layout: post
-published: false
 ---
 
 # Q&A
