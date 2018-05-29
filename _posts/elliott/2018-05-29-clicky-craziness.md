@@ -12,7 +12,8 @@ link for more info on **return values** and **scope**.
 
 # Questions & Answers
 
-* New filename tests!  Let's see them in action.  (More tests coming soon, as I have time to hacks)
+* New filename tests!  Let's see them in action.  (More tests coming soon, as I have time to hack)
+* Should you ever **commit to master**?
 
 # Peer Code Review
 
