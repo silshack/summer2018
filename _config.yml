@@ -135,13 +135,13 @@ authors:
     about: "Here's a little about scylarmartin"
 
   TCarmon:
-    name: TCarmon
+    name: Tia Carmon
     prof: false
-    gravatar:
-    website: "#"
+    gravatar: "05ff2bf3c30c499fffb44135c332a01c"
+    website: "https://www.linkedin.com/in/tiacarmon/"
     github: TCarmon
-    twitter:
-    about: "Here's a little about TCarmon"
+    twitter: "tiacarmon"
+    about: "Tia is a BMHI student spending Summer 2018 taking INLS 560"
 
   WildGinger23:
     name: WildGinger23
