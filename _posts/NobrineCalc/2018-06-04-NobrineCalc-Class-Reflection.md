@@ -1,7 +1,7 @@
 ---
 layout: post
 author: NobrineCalc
-title: Class Reflection
+title: "Class Reflection"
 ---
 
 When I first signed up for this class I wasn't too sure how'd I take to python. I learned some of Java so I had an understanding of some of the initial concepts. However working through the class I have come to see that I have a problem in my fundamentals in deciding what action to undertake to accomplish a goal. Another problem I'm running into is an issue of my syntax as correct indexing is exceedingly vital to the code in python rather than a problem of readibility. This is something that I have come to accept as it teaches me proper syntax and form at once. A lightbulb moment I've had comes from seeing how other people code. Just talking to others gives me a better understanding of how they though of engaging an action and the difference between my direction and their own. I feel that my clicky turtle for example shows growth from my past.It seems the best problem solving strategy for me is to think about what I want to accomplish in the code in order to determine what path I should take. Learning these methods and designs help with this.
