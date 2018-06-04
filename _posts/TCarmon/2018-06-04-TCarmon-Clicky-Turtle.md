@@ -17,7 +17,7 @@ I created a function that had the turtle reset if a user presses the “r” key
 
 In the end, I used the `.clear ()` rather than `.reset ()`  the `.clear ()` allowed the user to clear the screen and did not remove the clicky functionality. 
 
-![Screenshot of crazy turtle] (Pictures\Turtle abstract art screenshot_2 Jun 2018.png) 
+![Screenshot of crazy turtle] (https://user-images.githubusercontent.com/39390067/40945346-6a95bd1a-6826-11e8-9120-2abf5c9a27a2.png) 
 
 Another difficulty I had was in using `. setup () `, I felt like I wasn’t able to fully explore the capabilities in setting up the screen because I was creating a drawing app. I did create the ability for the screen to be black or white with the press if the “b” or “w” keys, the code is below. I first defined a function to make a black screen and a white screen. I went with these colors because the color choices in the colors list for Tina Turtle would look the best on a white or black background.
 ```
