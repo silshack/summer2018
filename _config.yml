@@ -74,28 +74,29 @@ authors:
     name: draravindrk
     prof: false
     gravatar:
-    website: "#"
+    website: "https://developers.google.com/edu/python/"
     github: draravindrk
-    twitter:
+    twitter: "arvireddymd"
     about: "Here's a little about draravindrk"
 
   hollaATyacodegirl:
-    name: hollaATyacodegirl
+    name: Halina Krzystek
     prof: false
-    gravatar:
+    gravatar: "edea51a5dc5f2e831a89d677ff72140c"
     website: "#"
     github: hollaATyacodegirl
-    twitter:
-    about: "Here's a little about hollaATyacodegirl"
+    twitter: "https://twitter.com/HaleezyK"
+    about: "Halina is a grad student at UNC Chapel Hill in North Carolina, pursuing a PSM in Biomedical Informatics. She is interested in 
+    the analysis of large biological data sets to inform health decisions."
 
   kevin-kao:
     name: kevin-kao
     prof: false
     gravatar:
-    website: "#"
+    website: https://www.linkedin.com/in/sheng-kai-kevin-kao-dukefuqua/
     github: kevin-kao
     twitter:
-    about: "Here's a little about kevin-kao"
+    about: "I am a visiting student here in UNC and an incoming student at Duke University studying quantitative management for my master degree this fall."
 
   NobrineCalc:
     name: NobrineCalc
@@ -116,13 +117,13 @@ authors:
     about: "Here's a little about ponderm"
 
   rachelanniexo:
-    name: rachelanniexo
+    name: Rachel Anne 
     prof: false
-    gravatar:
+    gravatar: af6099f46ccc4e71fe04e26cca7a787a
     website: "#"
     github: rachelanniexo
-    twitter:
-    about: "Here's a little about rachelanniexo"
+    twitter: rachelanniexo
+    about: "Rachel Anne is a rising second-year MSIS student interested in UX."
 
   scylarmartin:
     name: scylarmartin
@@ -134,13 +135,13 @@ authors:
     about: "Here's a little about scylarmartin"
 
   TCarmon:
-    name: TCarmon
+    name: Tia Carmon
     prof: false
-    gravatar:
-    website: "#"
+    gravatar: "05ff2bf3c30c499fffb44135c332a01c"
+    website: "https://www.linkedin.com/in/tiacarmon/"
     github: TCarmon
-    twitter:
-    about: "Here's a little about TCarmon"
+    twitter: "tiacarmon"
+    about: "Tia is a BMHI student spending Summer 2018 taking INLS 560"
 
   WildGinger23:
     name: WildGinger23

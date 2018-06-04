@@ -18,14 +18,16 @@ ModuleNotFoundError: No module named '_tkinter'
 
 During handling of the above exception, another exception occurred:
 
-`<addr>` Traceback (most recent call last):
-`<addr>`  File "/tmp/sessions/e820813b6d5e52af/main.py", line 1, in 
-`<addr>`    import turtle
-`<addr>`  File "/usr/lib/python3.6/turtle.py", line 107, in 
-`<addr>`    import tkinter as TK
+```
+  Traceback (most recent call last):
+  File "/tmp/sessions/e820813b6d5e52af/main.py", line 1, in 
+  import turtle
+  File "/usr/lib/python3.6/turtle.py", line 107, in 
+  import tkinter as TK
   File "/usr/lib/python3.6/tkinter/__init__.py", line 39, in 
-`<addr>`    raise ImportError(str(msg) + ', please install the python3-tk package')
-`<addr>`ImportError: No module named '_tkinter', please install the python3-tk package
+  raise ImportError(str(msg) + ', please install the python3-tk package')
+  ImportError: No module named '_tkinter', please install the python3-tk package
+```
 
 So I reverted to using regular python, and here is my treasure hunt game "Queen Anne Treasure Hunt"
 
