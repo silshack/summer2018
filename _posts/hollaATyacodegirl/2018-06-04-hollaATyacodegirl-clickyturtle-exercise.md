@@ -30,19 +30,19 @@ def clicky(x, y):
 
 I reused and modified two functions I had written for a previous exercise and used them as helper functions to `clicky(x,y)`. 
 `random_polygon()` is one of my favorite pieces of code 
-that I have written for this class and one that I'm most proud of. I developed `random_polygon()`during my refactoring of Logical Turtle.
+that I have written for this class and one that I'm most proud of. I developed `random_polygon()` during my refactoring of Logical Turtle.
 In its original form, the function drew polygons of varying color, varying size and varying number of sides. It was an exciting way for me
 to apply functions from the random module. 
 Here is the function from the Refactored Logical Turtles, then called `colorful_shape()`:
 
-``python
+```python
 def colorful_shape():
   colorlist= ['red','orange','yellow','green','blue','indigo','violet']
   tina.color(random.choice(colorlist))
   tina.pendown()
-  ...
 ```
-In it's original form, the function used randomchoice() from the random module to chose a color at random from the list, colorlist. In
+
+In it's original form, the function used random.choice() from the random module to chose a color at random from the list, colorlist. In
 Clicky Turtle, I changed how Tina's color was determined. Instead of having the color be pseudorandom, I made the color dependent on Tina's
 location, using the conditionals above.
 Below are my two helper functions for clicky(x,y) in the Clicky Turtle Exercise. Really, `polygon(length,sides)` is a helper function to
