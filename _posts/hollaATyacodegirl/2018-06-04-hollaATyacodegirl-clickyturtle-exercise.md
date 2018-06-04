@@ -35,7 +35,7 @@ In its original form, the function drew polygons of varying color, varying size 
 to apply functions from the random module. 
 Here is the function from the Refactored Logical Turtles, then called `colorful_shape()`:
 
-``python
+```python
 def colorful_shape():
   colorlist= ['red','orange','yellow','green','blue','indigo','violet']
   tina.color(random.choice(colorlist))
