@@ -80,13 +80,14 @@ authors:
     about: "Here's a little about draravindrk"
 
   hollaATyacodegirl:
-    name: hollaATyacodegirl
+    name: Halina Krzystek
     prof: false
-    gravatar:
+    gravatar: "edea51a5dc5f2e831a89d677ff72140c"
     website: "#"
     github: hollaATyacodegirl
-    twitter:
-    about: "Here's a little about hollaATyacodegirl"
+    twitter: "https://twitter.com/HaleezyK"
+    about: "Halina is a grad student at UNC Chapel Hill in North Carolina, pursuing a PSM in Biomedical Informatics. She is interested in 
+    the analysis of large biological data sets to inform health decisions."
 
   kevin-kao:
     name: kevin-kao
