@@ -1,7 +1,7 @@
 ---
-layout: space
+layout: post
 author: scylarmartin
-title: "scylarmartin's turtule exercise"
+title: "scylarmartin's turtle exercise"
 ---
 
 Here's the program I am embedding
