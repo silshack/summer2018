@@ -1,12 +1,10 @@
 ---
 layout: post
 author: WildGinger23
-title: "Reflection 2 and 'The Clicky Turtle Bar'"
+title: "The Clicky Turtle Bar"
 ---
 
-@ Midcourse Reflection
-
-For the first part of my reflection I'd like to go through my process for problem solving the Clicky Turtle exercise real time.
+For reflection purposes I'd like to go through my process for problem solving the Clicky Turtle exercise real time.
 
 When I began I copied code directly over from the Clicky Turtles Exercise webpage into a new trinket. Unfortunately I got an error because I named the second module "animations" not "animations.py"
 
