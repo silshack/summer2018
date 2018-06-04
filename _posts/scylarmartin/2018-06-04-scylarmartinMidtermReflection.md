@@ -12,7 +12,7 @@ this class is more interactive. Even though this class is pretty intense,(we cov
  In the midterm stage, I feel some difficulty in my study path. The first issue is that the time to build a complete code is longer and longer
  as we encounter more complicated structures, such as loops and list. Take the following code as an example:
  
-```
+```python
  total = 0
 count = 0
 average = 0
@@ -36,7 +36,7 @@ frequently, everytime I add any new element if necessaary, really helps to track
 One of the most important thing I learned from this experience is that practice is the most effective way to improve. It can not only improve
 the general logic and the detail. 
 
-```
+```python
 def gerund_infinitive():
   Keystring = input("enter ur word here")
   x = list(Keystring)
@@ -50,7 +50,7 @@ gerund_infinitive()
 This is the pairing program from last lecture. In this code, there is only some basic skills of editing string and list evolved, and I already
 practice some of them in the homework. However, I still make the mistake.
 
-```
+```python
  if x[-3:-1] == ["i", "n", "g"]:
 ```
 That reflects that I did not understand the meaning of indexing thoroughly. I wont find it out without practing this question, since when we
