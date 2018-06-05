@@ -10,8 +10,7 @@ The assignments were very interesting and I feel that each one them made me thin
 Elliott always encourages to take breaks which really helped me while learning how to code.
 Below is the Turtle Hack code which was actually something that I could recollect back as I was learning to code.
 
-```python
-# function to return the position value for pupil based on mood
+```
 def pupilpos(mood):
   if mood == '1' :
     return 50
@@ -25,10 +24,9 @@ try:
 
   mood = input('What mood? (Enter 1 for Happy and 2 for Confused)\n')
   
-  # check if user entered value within the allowed values, else raise exception
   if mood == '1' or mood == '2':
     ppos = pupilpos(mood)
   else :
-    raise Exception  
-  ```
+    raise Exception
+   ```
     
