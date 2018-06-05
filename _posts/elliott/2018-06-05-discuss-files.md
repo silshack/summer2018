@@ -7,6 +7,8 @@ title: "Let's learn files & review dictionaries"
 
 # Q&A
 
+**MEETUPS** - Do you have one?
+
 Some App stuff:
 
 - Attributes for specific turtles to make buttons
