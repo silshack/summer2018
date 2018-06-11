@@ -8,8 +8,12 @@ title: "Code Talks; Diversity & Inclusion in Programming"
 # Q&A
 
 * App peer review & self refleciton cancelled.  Not enough time!
+* I will merge up your project ideas and provide feedback as I do.
+* Another batch of meetups!  Observations?
 
 # Code Talks
+
+Pair up & merge up.
 
 First up: Turtle
 
