@@ -5,15 +5,15 @@ category: notes
 title: "Code Talks; Diversity & Inclusion in Programming"
 ---
 
+# Q&A
+
+* App peer review & self refleciton cancelled.  Not enough time!
+
 # Code Talks
 
 First up: Turtle
 
 Next up: Blackjack
-
-# Midterm Review
-
-Let's go over these questions
 
 # Diversity & Inclusion in Programming: Group Discussion
 
@@ -40,3 +40,9 @@ You can also base classes on preexisting ones.  This is called **class extension
 <iframe src="https://trinket.io/embed/python/84d92ea244" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 For homework, I want you to use this new knowledge to improve an existing trinket, both by refactoring it and by adding some new feature using the abilities of classes.
+
+Volunteer for an example?
+
+# If there's time: Midterm Review
+
+Let's go over these questions.  Or we can do it next time.
