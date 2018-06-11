@@ -1,6 +1,6 @@
 ---
 layout: post
-name: ponderm
+author: ponderm
 title: "Final Project Idea and Milestones"
 ---
 
