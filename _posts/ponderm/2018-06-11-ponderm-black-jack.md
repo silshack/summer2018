@@ -8,7 +8,7 @@ title: "Maddy's Black Jack Game"
 This past Friday, I started working on this assignment by laying out the framework of the basic requirements the program needed. To do this, I used the commenting technique Elliott has been using in class - basically creating a to-do list within the program before actually coding anything. Bit by bit I was able to go through and add the parts necessary to make the program run as required. Initially I had issues with while loops. I think the loop didn't quite have a way to exit, and it was getting stuck on whatever print function I had in place. Up to this point on Friday, I had been on stand-by at work. We got a call for another run and this was the perfect time for me to take a break and let my brain "freshen up" before looking at the errors I had been having again. Later that evening, I was able to approach the code again with "fresh eyes" and code more easily spot my mistakes from earlier. The issue I found was I called for the wrong variable in several lines of code. The wrong variable was similar in name to the one I actually needed, the difference was that I needed a numerical value but was calling for the variable that contained a string value. 
 
 ### Error in the code: 
-```
+```python
 next_set = first_set_input + random_num(digits)
 # should actually be:
 next_set = first_set + random_num(digits)
@@ -46,11 +46,11 @@ Finally all the pieces came together well, and I can now play Black Jack with my
 <iframe src="https://trinket.io/embed/python3/c0710ed5e2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 # Revised Milestones:
-	- [x] User can initiate a game of Black Jack.
-	- [x] Program can get the user's first two cards' sum.
-	- [x] User can choose to get another card or not.
-	- [x] Program informs user of their final score.
-	- [x] Program gets the dealer's score (between 16 and 21 for basic version).
-		- [x] Program gets the dealer's score (16 and above for advanced).
-	- [x] Program determines who the winner is based on.
-	- [x] User can choose to play again.
+- [x] User can initiate a game of Black Jack.
+- [x] Program can get the user's first two cards' sum.
+- [x] User can choose to get another card or not.
+- [x] Program informs user of their final score.
+- [x] Program gets the dealer's score (between 16 and 21 for basic version).
+	- [x] Program gets the dealer's score (16 and above for advanced).
+- [x] Program determines who the winner is based on.
+- [x] User can choose to play again.
