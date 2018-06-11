@@ -10,16 +10,16 @@ For the cultural immersion in the tech community, I attended a meeting with the 
 
 Following introductions, the coordinator started going right into the test code he had created for his work, which he shared with the group by sharing his screen on a Google Hangout (I had never even heard of Google Hangout until about 2 weeks ago and now I seem to hear about them all the time). Throughout the meetup, I was able to keep up with a surprising amount of what was discussed, but there was also a significant bit that was over my head. Some of the topics discussed included: 
 
-*CSP 
-*test cases
-*error messages during testing 
-*decorations
-*`unittest`
-*super (on functions) 
-*itertools
-*collections
-*tuples
-*sets 
+* CSP 
+* test cases
+* error messages during testing 
+* decorations
+* `unittest`
+* super (on functions) 
+* itertools
+* collections
+* tuples
+* sets 
 
 Of these, I had the most difficulty understanding decorations and supers. 
 
