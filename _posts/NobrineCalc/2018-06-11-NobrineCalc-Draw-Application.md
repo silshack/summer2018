@@ -31,5 +31,5 @@ class ColorPicker(Turtle):
     else:
       brush_turtle.pendown()
       brush_turtle.color(self.color_name)
-      ```
+```
       This part of the code used a method we have not gone over in class with the creation of a class. I found this as a method to create the UI I needed. However when it came to creating another for alternate brush sizes gave me trouble. I found that while I had trouble adding additional UI elements I could add colors to allow for a pseudo erasure function. Curiosly using the color white allowed this, however when a hexcode denoted a similiar shade of white the lines drawn were transparent regardless. This along with troubles figuring out mechanics of color wheels ended up slowing my progress.
