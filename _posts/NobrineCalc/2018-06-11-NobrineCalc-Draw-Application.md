@@ -4,6 +4,7 @@ author: NobrineCalc
 title: "Drawing Application Woes"
 ---
 Looking at the application I feel the results are very basic. I found an example to build color paletes for the ui. Initially I tried to make it function through the use of a drag function so the user's motions could be captured entirely. However when I tried using the screen tracer methods to remove the animations there as no change. As a result I ended up using the goto function.
+<iframe src="https://trinket.io/embed/python/53e545206c?start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ``` python
 class ColorPicker(Turtle):
