@@ -1,7 +1,7 @@
 ---
 layout: post
 author: scylarmartin
-title; "Scylarmartin's Black Jack"
+title: "Scylarmartin's Black Jack"
 ---
 Black Jack:
  
