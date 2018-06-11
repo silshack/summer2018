@@ -3,14 +3,13 @@ author: elliott
 category: notes
 title: "LDOC!"
 layout: post
-published: false
 ---
 
 Happy Last Day Of Classes!
 
 More to follow..
 
-
+<!--
 # Q & A
 
 * Final count: Who needs a make-up for the final presentation?
@@ -77,3 +76,4 @@ Group 2
 jbfelder : businessowl
 neatoskeeto : nvola
 ```
+-->
