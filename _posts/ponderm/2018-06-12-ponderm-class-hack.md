@@ -27,3 +27,5 @@ I probably have 6 or 7 variations of this app at this point now!
 ##### I probably have 6 or 7 variations of this app at this point now! 
 /play tada
 <iframe src="https://trinket.io/embed/python3/5015dbd35a" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+I actually finished and submitted the pull request, only to go back and realize that my hidden card system only works if you take one card as opposed to multiple. I went back and modified it so I think it works. I struggled to figure out how to display all the visible cards and still keep the first one hidden. But now it shows you what your new card is so the user can keep track of the cards. 
