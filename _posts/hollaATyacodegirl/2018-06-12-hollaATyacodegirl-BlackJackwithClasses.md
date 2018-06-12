@@ -12,4 +12,24 @@ I understand that __init__(): must be defined for a class. I wanted to put under
 
 <iframe src="https://trinket.io/embed/python3/8c7e2f0e35?start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+UPDATE: SOLVED! 
+
+I realized that I was not defining my cards_list in reference to self. Here is the correct way for me to define a class called Card_Deck,
+and then create an instance of that class.
+
+```python
+import random
+
+class Card_Deck(object):
+    def __init__(self):
+        self.list_of_cards= [1,2,3,4,5,6,7,8,9,10]
+    
+    def deal(self):
+        return random.choice(self.list_of_cards)
+    
+# Define deck of cards
+
+cards= Card_Deck()
+```
+
 - Halina 
