@@ -19,12 +19,12 @@ Note to self: don't make variables that are so similar that your brain unknowing
 The defined functions were probably supposed to make coding for this assignment easier had it been incorporated from the start, but trying to add it in after the fact ended up making it more challenging for me because I had to break everything down and carefully follow the code. Otherwise it was really easy to get bits of code lost and forget what it was meant to do. To see the process I have added the embeded Trinkets for the before I added functions to after I started adding functions and when it started getting funky. At this point in the coding process, I decided I had enough for one day and would try again the following evening. 
 
 ### Program prior to added functions:
-iframe src="https://trinket.io/embed/python3/6253a57b98" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/6253a57b98" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ### Program after starting to add functions:
 <iframe src="https://trinket.io/embed/python3/806c3e47b3" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Saturday evening I fixed what was wrong with the most recent version of the program and started fine tuning the simple version of the game so that it would respond appropriately when someone busted. My program started "freaking out" when I tried to fix this in the main() function. It looped a many times and gave a lot of output in the thousands `"Your hand now totals to 3459"` . I managed to keep it from looping through randomly like that by adjusting the while loops and finally completed  the final basic game of Black Jack:
+Saturday evening I fixed what was wrong with the most recent version of the program and started fine tuning the simple version of the game so that it would respond appropriately when someone busted. My program started "freaking out" when I tried to fix this in the main() function. It looped a many times and gave a lot of output in the thousands `"Your hand now totals to 3459"`. I managed to keep it from looping through randomly like that by adjusting the while loops and finally completed  the final basic game of Black Jack:
 
 ### Final Basic Game of Black Jack
 <iframe src="https://trinket.io/embed/python3/9748775575" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
