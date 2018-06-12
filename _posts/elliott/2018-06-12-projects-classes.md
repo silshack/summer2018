@@ -28,7 +28,7 @@ You'll need to get your dataset inside the function, either as a parameter or as
 
 Remember my video?  There's a chapter on using dictionaries in Turtle!
 
-There's also an example game with levels (but that may not apply to anyone except Jay).
+There's also an example game with levels.
 
 # Permanent Groups
 
@@ -40,8 +40,14 @@ TBD
 
 TBD
 
-# Group Work today:
+# For Next Time
 
-See in-class exercise.
+**Python and the Web**
+
+A brief intro to this exercises
+
+**Project update and revised milestones/plan**
+
+Based on our in-class discussion, revise your milestones and work plan (todo list).  Also, **make a copy** of your project and post this copy in a pull request, as a snapshot of where you are.  Don't keep working on this snapshot.
 
 
