@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 author: rachelanniexo
 title: "Pepperoni Re-do"
 ---
