@@ -32,13 +32,7 @@ There's also an example game with levels.
 
 # Permanent Groups
 
-## Turtle Groups & Pairs
-
-TBD
-
-# Data Groups & Pairs
-
-TBD
+{% include groups %}
 
 # For Next Time
 
