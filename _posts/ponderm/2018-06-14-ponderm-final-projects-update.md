@@ -46,24 +46,24 @@ I think the next step I need to take will be incorporating "\n" somewhere in the
 # Previously Defined Milestones
 
 What will my program be able to do?
-- [] The user will be able to ask for the rate or number of cases for a specific notifiable disease
-- [] The user will be able to ask for help and receive instructions on how to use certain features of the program
-- [] The program will display charts for the rate of cases and number of reported cases for diseases for the year of 2016 and also broken down by month and racial group 
-- [] The user will be able to identify the diseases with the highest reported cases and rates, as well as the diseases that had none or very few reported cases in 2016
-- [] If time permits, the program may provide the user with an external link on the disease or a short blurb about the disease (this may be a bit ambitious, but definitely useful)
+- [ ] The user will be able to ask for the rate or number of cases for a specific notifiable disease
+- [ ] The user will be able to ask for help and receive instructions on how to use certain features of the program
+- [ ] The program will display charts for the rate of cases and number of reported cases for diseases for the year of 2016 and also broken down by month and racial group 
+- [ ] The user will be able to identify the diseases with the highest reported cases and rates, as well as the diseases that had none or very few reported cases in 2016
+- [ ] If time permits, the program may provide the user with an external link on the disease or a short blurb about the disease (this may be a bit ambitious, but definitely useful)
 *notice how none are yet complete* :sob: :weary:
 
 # Revised Defined Milestones
 
 What will my program be able to do?
-- [] The user will be able to ask for the rate or number of cases for a specific notifiable disease
-- [] The user will be able to ask for help and receive instructions on how to use certain features of the program
-- [] The program will display charts for the rate of cases and number of reported cases for diseases for the year of 2016 and also broken down by month and racial group 
-- [] The user will be able to identify the diseases with the highest reported cases and rates, as well as the diseases that had none or very few reported cases in 2016
-- [] If time permits, the program may provide the user with an external link on the disease or a short blurb about the disease (this may be a bit **ambitious**, but definitely useful)
+- [ ] The user will be able to ask for the rate or number of cases for a specific notifiable disease
+- [ ] The user will be able to ask for help and receive instructions on how to use certain features of the program
+- [ ] The program will display charts for the rate of cases and number of reported cases for diseases for the year of 2016 and also broken down by month and racial group 
+- [ ] The user will be able to identify the diseases with the highest reported cases and rates, as well as the diseases that had none or very few reported cases in 2016
+- [ ] If time permits, the program may provide the user with an external link on the disease or a short blurb about the disease (this may be a bit **ambitious**, but definitely useful)
 
 *New One*
-- [] The program will display a table of the data used if prompted by the user
+- [ ] The program will display a table of the data used if prompted by the user
 
 # Before the Next Class
 
