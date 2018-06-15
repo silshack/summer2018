@@ -1,6 +1,6 @@
 ---
 layout: post
-author: araravindrk
+author: draravindrk
 title: "Aravind's Reflection on TriPython Meetup at Chapel Hill"
 ---
 
