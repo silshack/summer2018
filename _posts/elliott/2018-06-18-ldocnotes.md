@@ -9,21 +9,25 @@ Happy Last Day Of Classes!
 
 More to follow..
 
-<!--
 # Q & A
 
-* Final count: Who needs a make-up for the final presentation?
-* 30 minute office hours slots: email me to schedule a Google hangout
-* A note on using code & attribution. **See me** with questions or concerns.
-* Data people: Pygal + bokeh in Trinket
-* Turtle people: recursive screen.ontimer for 'autonomous' elements
+* [Sneak peek](https://brian-dev.trinket.io/embed/pygame/eeedfef01ee)
+* Strategies for everyone's code:
+  * encapsulate 'naked' code
+  * Group like things into Classes.  Variables => Attributes  Functions => Methods etc.
+  * Manage scope: pass things you'll need inside functions/methods in as arguments, `return` things you'll need afterwards
+  * Definitions of functions and classes are great candidates for putting into custom modules (new files) as long as you manage scope correctly.
+  * Your main.py file should succinctly communicate what your program does **overall**.
+  * Tweak/iterate.  Analysts: this means thinking of new ways to view your data.  Turtlers: this means small alterations to your games that make them more fun
+  * Everyone: make sure your interfaces are **robust** and **graceful**.
+* :notes: - [Memories](https://silshack.github.io/summer2018/before-picture.html) - :notes:
 
 # Thank You!
 
 As I said on the first day of class, I love teaching, and you've been a great group who's worked hard and learned a lot over a very short period.   Thanks for a great summer session!
 
-Please keep in touch on various social media.  I use Twitter the most.  Drop me a line if I can help or you've got a fun
-update to share: eah13@mac.com
+Please keep in touch on various social media.  I don't always use social media, but when I do, I use Twitter.  Drop me a line if I can help or you've got a fun
+update to share: [eah13@mac.com](mailto:eah13@mac.com)
 
 # Stay involved!
 
@@ -55,25 +59,4 @@ Last one of the semester.  Make it count!  You should have most of the functiona
 perfecting the details.  If you're not, use your group to make sure you've got a plan to catch up!
 
 
-## Turtle Groups & Pairs
-
-```
-Group 1
-lisetted : samsr31 : nurahill
-kmorbitzer : grassycheetah94
-Group 2
-chall12 : chausuble
-brianpugsley : Ibbi2010
-```
-
-# Data Groups & Pairs
-
-```
-Group 1
-anusha-suresh : zman7895 : jpanken
-abaker8 : alexreher
-Group 2
-jbfelder : businessowl
-neatoskeeto : nvola
-```
--->
+{% include groups %}
