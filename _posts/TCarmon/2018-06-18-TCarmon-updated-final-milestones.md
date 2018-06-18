@@ -25,9 +25,9 @@ Each time I've added new functionality or implemented a new set of code, I have 
 
 ### Updated milestones:
 Revised final project milestones
--	[x ] Allow user to select the file they want to work with
+-	[x] Allow user to select the file they want to work with
 -	[ ] Allow user to input what fields in the csv file they want to visualize
--	[x ] Display the user output
--	[x ] Present help text if user selects “Help” from the main menu
+-	[x] Display the user output
+-	[x] Present help text if user selects “Help” from the main menu
 - [ ] Allow user to switch between files (stretch goal)
 
