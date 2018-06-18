@@ -22,7 +22,6 @@ Here is what I had by the end of class, "FAQ Program V1.2"
 
 <iframe src="https://trinket.io/embed/python3/552297e5f0" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-
 The next time I picked this up was Saturday morning. Unfortunately I was having some difficulty with Trinket, and the console was either stuck connecting /-\- or running /-\/-. I don't need to run my program to write code though right? I've been using the final project folder 
 
 So I decided to save it to the final project folder and in doing so I noticed that there was an indentation error in V1.2 (and V1.3) that was being displayed. I commented out the code in V1.2 and saved it, then at the folder level saw another error. Due to the proliferation of errors I had to comment out a lot of code. Now I want to try to actually fix it in V1.3.
@@ -51,28 +50,28 @@ Here is what I had after a weekend of coding, "FAQ Program V1.4"
 Now here are my previous milestones
 
 - [x] Import three .csv files that correspond to finding aids that I’ve created
-- [] Detect data that causes errors “~,%,&,*, etc.”
-- [] User can discover how many series are in a collection
-- [] User can ask how many items are in a series
-- [] User can search collections for specific terms
+- [ ] Detect data that causes errors “~,%,&,*, etc.”
+- [ ] User can discover how many series are in a collection
+- [ ] User can ask how many items are in a series
+- [ ] User can search collections for specific terms
 
 I didn't reach as many of the milestones as I would have liked over the weekend. I still have a lot of work ahead of me, but here is a more accurate list of the milestones for this project. At this point I think that implementing the 3rd function may be a little bit of a stretch goal. While it would be really useful in my day-to-day I don't currently have the knowledge of unicode characters required to know what would trigger errors while converting the data from .csv to EAD XML.
 
 ###Program Capabilities
 - [x] Import three .csv files that correspond to finding aids I've created
-- [] Reimport three .csv files with standardized columns
-- [] Detect data that may cause errors "& ..." (Function 3)
+- [ ] Reimport three .csv files with standardized columns
+- [ ] Detect data that may cause errors "& ..." (Function 3)
 - [x] Can use collection dictionary to display information about the collection
-- [] Can use dictionary of dictionaries to display information about series
-- [x] [] [] Have "Help" returns at each level of each functions.
-- [] Visualize data via text printouts
-- [] Custom class utilization
+- [ ] Can use dictionary of dictionaries to display information about series
+- [x] [ ] [ ] Have "Help" returns at each level of each functions.
+- [ ] Visualize data via text printouts
+- [ ] Custom class utilization
 
 ###User Abilitities
-- [] User can discover the series that make up the collection (Function 1)
-- [] User can ask how many items are in a series (Function 2)
-- [] User can discover the dates for a series (Function 4)
-- [] User can discover the dates for the collection (Function 4)
+- [ ] User can discover the series that make up the collection (Function 1)
+- [ ] User can ask how many items are in a series (Function 2)
+- [ ] User can discover the dates for a series (Function 4)
+- [ ] User can discover the dates for the collection (Function 4)
 
 ## Stand-up Report
 
