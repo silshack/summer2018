@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: post
 author: NobrineCalc
-title: Final Project Revision
+title: "Final Project Revision"
 ---
 After working on my project some more during class and discussing my goals, I came up with a plan for what I want to accomplish as well as some methods to accomplish them.
 My program will be built to allow the reading and further analysis of census data. A goal I have is to read each heading of the column back to the user and use this to engage in calculations.
