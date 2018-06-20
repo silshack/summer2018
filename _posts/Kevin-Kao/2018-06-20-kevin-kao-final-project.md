@@ -123,7 +123,7 @@ But now I can make a whole complete project from the very beginning to the end. 
 All in all, I think I have learned a lot from this project. Not only did I learn hard skills such as pandas, matplotlib, lists,
 dictionary, loop and so on but also learn soft skills like how to adjust my mental health.
 
-Conclusion on this class
+### Conclusion on this class
 I can’t believe the course is coming to an end. It went by very fast. This intensive course was really a great one. 
 I managed to learn a huge number of things in a short period of time. Sometimes I felt like learning things under pressure will provoke the potential.
 I appreciate I have this opportunity to learn and grow. 
