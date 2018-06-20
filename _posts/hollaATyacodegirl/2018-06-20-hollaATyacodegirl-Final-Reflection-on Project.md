@@ -195,7 +195,7 @@ trajectory my final project set me on. I even hope to continue to add options to
 I hope to explore data visualization a lot more, and maybe even take a class on it. I definitely hope to take as many more Python courses
 as possible in graduate school. I really enjoy the programming language, and want to become more proficient. 
 
-Thank you to Elliott for being a great professor! This class certainly was a lot of work, and yet I thoroughly enjoyed it.
+Thank you to Elliott for being a great professor! This class certainly was a lot, and I thoroughly enjoyed it.
 
 Cheers,
 :fire: Halina :fire:
