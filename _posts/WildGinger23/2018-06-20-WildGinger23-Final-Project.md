@@ -31,7 +31,7 @@ In this program I had a clean structure for my program set up and I was satisfie
 
 First I'd like to address the milestones and the final project, and I'd like to close with a paragraph with a reflection on the class as a whole and my future coding goals. Here are the milestones I was aiming at before class on Monday,
 
-###Program Capabilities
+### Program Capabilities
 - [x] Import three .csv files that correspond to finding aids I've created
 - [x] Reimport three .csv files with standardized columns
 - [ ] Detect data that may cause errors "& ..." (Function 3) 
@@ -41,7 +41,7 @@ First I'd like to address the milestones and the final project, and I'd like to 
 - [ ] Visualize data via text printouts
 - [ ] Custom class utilization
 
-###User Abilitities
+### User Abilitities
 - [x] User can discover the series that make up the collection (Function 1)
 - [x] User can ask how many items are in a series (Function 2)
 - [ ] User can discover the dates for a series (Function 4)
@@ -52,16 +52,16 @@ I knew that I put off a lot of the gruntwork for this project to the last few da
 
 For each of the functions I have some ideas of how to improve them that I'd like to list below,
 
-###Function 1 - Collection Explorer
+### Function 1 - Collection Explorer
 At this point the function merely prints off the series and number of items in each series. 
 
-###Function 2 - Bad Data Discovery
+### Function 2 - Bad Data Discovery
 This function is non functional at the moment. It was the first idea I had when thinking about what I wanted to do with this data. If I were to work on this program for many more months this would be my main objective. I would need to learn more about unicode characters, the program we use to convert .CSV files to EAD XML files, and what characters throw errors in ArchivesSpace.
 
-###Function 3 - Date Range
+### Function 3 - Date Range
 This was a very challenging aspect of the program because I wanted to use a custom class for dates so I could use it for every level. I definitly should have thought more about how difficult this was going to be and how much time it was going to take. I figured that since I would be working with numbers that it would be easier than coding other aspects, but I didn't factor in how I would utilize user input.
 
-###Function 4 - Help
+### Function 4 - Help
 It was with this function that I began to see my code output starting to look like a recognizable text program, and I got excited. I would have liked to be able to make this menu accessible from anywhere in the program by typing 'help'.
 
 ## Reflection
