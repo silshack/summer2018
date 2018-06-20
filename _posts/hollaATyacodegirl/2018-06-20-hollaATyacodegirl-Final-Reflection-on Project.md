@@ -15,12 +15,9 @@ FASTA files can be downloaded for genes for interest using the BLAST tool for NC
 I wanted to compare orthologues of an interesting gene across several vertebrate species. Orthologues are homologues (copies of a gene)
 that are believed to be derived from the same ancestral sequence, and are not present in different species. 
 In my program, the user can choose from several genes of interest to analyze: *BRCA2*, a human tumor suppressor gene, whose protein repairs
-DNA; *MC1R*, whose protein is involved in regulating skin and hair pigmentation and is a significant cancer gene; *SPO11*, which is a conserved
-gene whose protein is involved in meiotic recombination, particularly responsible for double-stranded breaks in DNA; *RAD51*, which is also
-involved in meitoic recombinations; and *LCT*, which has instructions for producing the enzyme lactase that breaks down the sugar in milk,
-which was intrinsic to human evolution. Most of these genes: *BRCA2*, *MC1R*, and *LCT*, we expect to be highly conserved in mammals,
-but how do the orthologues compare in other vertebrates? The genes involved in meiotic recombination and DNA we expect to be conserved 
-across all vertebrates, but is that true? These are the questions I was hoping to answer by creating my program. 
+DNA; *MC1R*, whose protein is involved in regulating skin and hair pigmentation and is a significant cancer gene; and *LCT*, which has instructions for producing the enzyme lactase that breaks down the sugar in milk,
+which was intrinsic to human evolution. We expect these genes: *BRCA2*, *MC1R*, and *LCT*, to be highly conserved in mammals,
+but how do the orthologues compare in other vertebrates? 
 
 # Milestones
 
