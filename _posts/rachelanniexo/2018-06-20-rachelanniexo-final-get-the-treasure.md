@@ -18,13 +18,33 @@ Another new experience was being paired with a permanent partner for pull reques
 1. Having difficulty accessing and printing to my game state dictionary, which was used to keep win and lose screens. This affected the ability of levels 2, 3, and 4 to function as planned because there was no method of playing the screens and letting users know what had happened.
 2. Initially being unable iterating through the moon picture list I created for level 1.
 3. The sys exit method was not working for me as sys.exit() and continued not to work for me as a naked exit function.
+4. I couldn't get my coordinate-testing loops to work! :(
 
-# How I (Sort of) Drove Straight Through My Roadblocks
+# How I (Sort of) Drove Straight Through My Roadblocks:
 
 I addressed these issues by seeking help from the professor, after spending some time marinating on each one. These were the solutions:
 1. Trying to print output rather than calling the new background revealed whether or not things were actually being acted on
 2. The moon pictures actually weren’t available in the trinket library, therefore they needed to be made available so they could displayed.
 3. Sys exit remains a mystery, but resetting the screen makes it appear as though there’s no game being played, which was determined to be satisfactory since the sys wouldn’t work for the quit function.
+4. I'm not going to lie, I still have no clue exactly why my code doesn't work here. I suspect it has something to do with the way I use float(character.xcor()) as an argument. If anyone has any ideas or advice, I am open to them as I plan to continue working on this game beyond the scope of class. Here's a code snippet:
+
+```
+  # This makes lasers until you reach the right side of the screen
+  laser_names = ["zip", "zap", "zippy", "zappy", "zippity", "zappity", "zipzap", "zapzip", "zipper", "zapper", "mczip", "mczap", "azip", "azap", "bzip", "bzap", "czip", "czap"]
+  while float(character.xcor()) <= 380:
+    for named_laser in laser_names:
+      this_laser = Laser()
+      this_laser.hideturtle()
+      if not this_laser.test_location(character):
+        this_laser.hit = True
+        break
+        screen.clear()
+        character.clear()
+        turtley_turtle.clear()
+        screen.bgpic(win_or_lose['lose'])
+      if float(character.xcor()) <= 380:
+        break
+```
 
 # Special Considerations:
 
