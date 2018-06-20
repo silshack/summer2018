@@ -32,7 +32,8 @@ https://www.youtube.com/watch?v=-0q_miviUDs
 In this video, author apply a way of using the virtual block to builld list, and using the len of the list to set the coordinate of the
 brick.
 
-```python
+``` 
+python
 maze1 =[
         "XXXXXXXXXXXXXXXXXXXXXXXXX",
         "X                       X",
@@ -90,7 +91,8 @@ The forth milestone is to set up the lvl for the game right before I try to desi
 
 Here is a part of code is class game
 
-```python
+``` 
+python
 class Game():
     def __init__(self,screen, setmaxDragonballs, setmaxEnemies, setmaxLife):
         self.brick = Brick()
