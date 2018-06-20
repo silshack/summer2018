@@ -43,6 +43,10 @@ Below are the final milestones for my project, with completed milestones marked 
 * [X] INCORPORATE CLASSES into my program, possibly when visualizing data
 * [ ] Stretch Goal: have program generate phylogenetic trees for each file (would have to use third party modules BioPython or ETE)
 
+# Final Project Trinket:
+
+<iframe src="https://trinket.io/embed/python3/30c84ee3a9?start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 # Discussion of Development
 
 After downloading my FASTA files from BLAST, I had to align my FASTA files, as downloading from BLAST only gives the raw sequence. I externally used the online tool, CLUSTAL 
