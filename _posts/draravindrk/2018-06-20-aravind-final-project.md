@@ -99,10 +99,8 @@ for line in hcup_lines:
       param_dict[param] = 0
 ```  
       
-'''python
-  # Build a dictionary containing a dictionary for each paramter group containing 
-  # number of years and total hospitalizations value (the sum of all stays
-  # that happened in that parameter group)
+```python
+  # Build a dictionary containing a dictionary for each paramter group containing number of years and total hospitalizations value (the sum of all stays that happened in that parameter group
   
   big_param_dict = {}
   
@@ -118,14 +116,14 @@ for line in hcup_lines:
       else:
         stays = float(row[6])
       big_param_dict[param][year] = stays
-  
+      
   # print(big_param_dict)
   
   for param in param_dict:
     num_years = 0
     total_stays = 0
     
-    for year in big_param_dict[param].keys():
+  for year in big_param_dict[param].keys():
       num_years += 1
       total_stays += big_param_dict[param][year]
       # print(param, num_years, total_stays)
