@@ -17,20 +17,17 @@ collection of longitudinal hospital care data in the United States. I spent a co
 this Dataset so that it would apt while the program is being executed. As the dataset file that I had was a huge one, I narrowed down my
 choices that I wanted to work on to the Top 5 Most Common Diagnoses for In-Patient Stays in the United States. The data analyser 
 helps with analyzing the data from the csv file and it give the number of patients for a particular diesease as outpiut based on 
-the parameters age, income and sex. To start,I created a "Menu" option for the disease. After choosing the diseases that I wanted to 
+the parameters age, income and sex. I created a "Menu" option for the disease. After choosing the diseases that I wanted to 
 analyze, the next step was to choose the parameters that I wanted to analyze which are "Age", "Sex" and "Income".
 The next step was building a menu option for the parameters. Now while going into the parameters for each disease selected, 
-when the user selects the parameter "age" the analyzer displays the data availability in years for the number of patients in 
-age groups of 45-64 Years, 65-74 Years and 75+ Years. The "income" parameter displays the data availability in years 
-according to the income quartles and then the numbers for quartiles according to Quartile 1 (Lowest), Quartile 2 (2nd Lowest), 
-Quartile 3 (2nd Highest) and Quartile 4 (Highest). The third parameter "Sex" displays the data availability in years 
-for males and females and then the totala number of patients in each sex.
+when the user selects the parameter "age" the analyzer displays the data availability in years for the number of patients in different
+age groups. The "income" parameter displays the data availability in years according to the income quartles and then the numbers for quartiles according to Quartile 1 (Lowest), Quartile 2 (2nd Lowest), Quartile 3 (2nd Highest) and Quartile 4 (Highest). The third parameter "Sex" displays the data availability in years for males and females and then the total number of patients in each sex.
 
 Below is the embedded link to the Data Analyzer on Trinket:
 
 <iframe src="https://trinket.io/embed/python3/eff3b349ce" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Follwoing are the steps for the code for the final project:
+Follwing are the steps for the code for the final project:
 
  
 ```python
